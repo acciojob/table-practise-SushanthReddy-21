@@ -1,1 +1,17 @@
 /*  your css code here. If applicable */
+table{
+	width:60%;
+	margin:20px auto;
+	border-collapse:collapse;
+	background-color:yellow;
+	font-family:Arial, sans-serif;
+	text-align:center;
+}
+table,th,te,td{
+	border:1px solid black;
+}
+caption{
+	font-weight:bold;
+	font-size:1.2em;
+}
+
